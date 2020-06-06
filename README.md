@@ -1,0 +1,2 @@
+# Python-Programming
+Python is a language with a simple syntax, and a powerful set of libraries. It is an interpreted language, with a rich programming environment, including a robust debugger and profiler. While it is easy for beginners to learn, it is widely used in many scientific areas for data exploration. This is an excellent repository of Python programming language for students without prior programming experience. Its level is from Beginning to Advance.
