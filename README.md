@@ -3,6 +3,8 @@ Python is a language with a simple syntax, and a powerful set of libraries. It i
 
 # Here you will cover:
 •	Data Types, Variables, Basic Input-Output Operations, Basic Operators
+
+
 •	Boolean Values, Conditional Execution, Loops, Lists and List Processing, Logical and Bitwise Operations
 •	Functions, Tuples, Dictionaries, and Data Processing
 •	Modules, Packages, String and List Methods, and Exceptions
